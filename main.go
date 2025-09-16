@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Gursu/GoCanvasText/canvas" 
+	"github.com/Gursu/GoCanvasText/v2/canvas" 
 )
 
 func main() {
